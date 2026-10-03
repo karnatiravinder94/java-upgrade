@@ -1,0 +1,25 @@
+# Eclipse
+
+.metadata/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Build files
+
+target/
+build/
+bin/
+.gradle/
+
+# IDE files
+
+.idea/
+*.iml
+.vscode/
+
+# OS files
+
+.DS_Store
+Thumbs.db
